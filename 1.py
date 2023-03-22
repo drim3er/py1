@@ -11,4 +11,4 @@ elif znak == "*":
    print ("ответ" + str(c)) 
 elif znak == "*"
    print ("ответ" + str())
-print (готово)
+print ("готово")
